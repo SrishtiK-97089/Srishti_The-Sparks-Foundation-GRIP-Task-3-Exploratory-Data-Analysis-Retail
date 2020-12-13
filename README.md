@@ -1,0 +1,2 @@
+# Srishti_The-Sparks-Foundation-GRIP-Task-3-Exploratory-Data-Analysis-Retail
+This is the task 3 of The Sparks Foundation Graduate Rotatory Internship Programme. In this video,I performed ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ and as a business manager, I tried to find out the weak areas where the company can work to  make more profit and What all business problems can be derived by exploring the data. 
